@@ -1,0 +1,4 @@
+test_title_sql:
+  "DELETE FROM sys_title WHERE name = 'test_title_01'"
+test_score_sql:
+  "UPDATE sys_title  SET score = null WHERE name = 'test1'"

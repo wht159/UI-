@@ -1,0 +1,12 @@
+[32mINFO    [0m root:base.py:19 正在初始化driver：
+[32mINFO    [0m root:page_mp_login.py:38 正在调用登录业务方法，用户名:  密码: 
+[32mINFO    [0m root:base.py:28 正在查找元素：('css selector', "[placeholder='请输入用户名']")
+[32mINFO    [0m root:base.py:54 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行清空操作! 
+[32mINFO    [0m root:base.py:57 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行输入: 操作!
+[32mINFO    [0m root:base.py:28 正在查找元素：('css selector', " [placeholder='请输入密码']")
+[32mINFO    [0m root:base.py:54 正在对: ('css selector', " [placeholder='请输入密码']")元素执行清空操作! 
+[32mINFO    [0m root:base.py:57 正在对: ('css selector', " [placeholder='请输入密码']")元素执行输入: 操作!
+[32mINFO    [0m root:base.py:65 正在对: ('css selector', '#login') 元素执行点击操作 
+[32mINFO    [0m root:base.py:28 正在查找元素：('css selector', '#login')
+[32mINFO    [0m root:base.py:40 正在查找元素：('css selector', '.el-form-item__error')
+[32mINFO    [0m root:base.py:83 正在对: ('css selector', '.el-form-item__error')元素获取文本操作!，获取的文本值: ['请输入用户名', '请输入密码']

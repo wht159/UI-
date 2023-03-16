@@ -1,0 +1,506 @@
+2023-03-08 01:21:55,605 INFO [base.py(__init__:19)] - 正在初始化driver：
+2023-03-08 01:21:55,623 INFO [page_mp_login.py(page_mp_login:38)] - 正在调用登录业务方法，用户名: 11111 密码: 111
+2023-03-08 01:21:56,645 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', "[placeholder='请输入用户名']")
+2023-03-08 01:21:56,662 INFO [base.py(base_input:42)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行清空操作! 
+2023-03-08 01:21:56,699 INFO [base.py(base_input:45)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行输入:11111 操作!
+2023-03-08 01:21:57,782 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', " [placeholder='请输入密码']")
+2023-03-08 01:21:57,913 INFO [base.py(base_input:42)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行清空操作! 
+2023-03-08 01:21:57,946 INFO [base.py(base_input:45)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行输入:111 操作!
+2023-03-08 01:21:59,022 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#login')
+2023-03-08 01:24:29,721 INFO [base.py(__init__:19)] - 正在初始化driver：
+2023-03-08 01:24:29,729 INFO [page_mp_login.py(page_mp_login:38)] - 正在调用登录业务方法，用户名: 11111 密码: 111
+2023-03-08 01:24:30,742 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', "[placeholder='请输入用户名']")
+2023-03-08 01:24:30,754 INFO [base.py(base_input:42)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行清空操作! 
+2023-03-08 01:24:30,783 INFO [base.py(base_input:45)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行输入:11111 操作!
+2023-03-08 01:24:31,875 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', " [placeholder='请输入密码']")
+2023-03-08 01:24:31,888 INFO [base.py(base_input:42)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行清空操作! 
+2023-03-08 01:24:31,921 INFO [base.py(base_input:45)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行输入:111 操作!
+2023-03-08 01:24:32,995 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#login')
+2023-03-08 01:24:58,806 INFO [base.py(__init__:19)] - 正在初始化driver：
+2023-03-08 01:24:58,807 INFO [page_mp_login.py(page_mp_login:38)] - 正在调用登录业务方法，用户名: 11111 密码: 111
+2023-03-08 01:24:59,823 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', "[placeholder='请输入用户名']")
+2023-03-08 01:24:59,837 INFO [base.py(base_input:42)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行清空操作! 
+2023-03-08 01:24:59,867 INFO [base.py(base_input:45)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行输入:11111 操作!
+2023-03-08 01:25:00,944 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', " [placeholder='请输入密码']")
+2023-03-08 01:25:00,957 INFO [base.py(base_input:42)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行清空操作! 
+2023-03-08 01:25:00,991 INFO [base.py(base_input:45)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行输入:111 操作!
+2023-03-08 01:25:02,062 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#login')
+2023-03-08 01:27:19,264 INFO [base.py(__init__:19)] - 正在初始化driver：
+2023-03-08 01:27:19,265 INFO [page_mp_login.py(page_mp_login:38)] - 正在调用登录业务方法，用户名: 11111 密码: 111
+2023-03-08 01:27:20,268 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', "[placeholder='请输入用户名']")
+2023-03-08 01:27:20,281 INFO [base.py(base_input:42)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行清空操作! 
+2023-03-08 01:27:20,311 INFO [base.py(base_input:45)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行输入:11111 操作!
+2023-03-08 01:27:21,393 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', " [placeholder='请输入密码']")
+2023-03-08 01:27:21,405 INFO [base.py(base_input:42)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行清空操作! 
+2023-03-08 01:27:21,439 INFO [base.py(base_input:45)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行输入:111 操作!
+2023-03-08 01:27:22,503 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#login')
+2023-03-08 01:27:23,573 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 01:27:23,605 INFO [base.py(base_get_text:61)] - 正在对: ('css selector', '[role="alert"] > p')元素获取文本操作!，获取的文本值: 用户名或密码错误 
+2023-03-08 01:27:23,605 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 18:18:52,319 INFO [base.py(__init__:19)] - 正在初始化driver：
+2023-03-08 18:18:52,322 INFO [page_mp_login.py(page_mp_login:34)] - 正在调用登录业务方法，用户名: haitao 密码: 123
+2023-03-08 18:18:52,323 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', "[placeholder='请输入用户名']")
+2023-03-08 18:18:52,365 INFO [base.py(base_input:42)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行清空操作! 
+2023-03-08 18:18:52,424 INFO [base.py(base_input:45)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行输入:haitao 操作!
+2023-03-08 18:18:52,560 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', " [placeholder='请输入密码']")
+2023-03-08 18:18:52,575 INFO [base.py(base_input:42)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行清空操作! 
+2023-03-08 18:18:52,639 INFO [base.py(base_input:45)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行输入:123 操作!
+2023-03-08 18:18:52,761 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#login')
+2023-03-08 18:18:52,844 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 18:18:53,539 INFO [base.py(base_get_text:61)] - 正在对: ('css selector', '[role="alert"] > p')元素获取文本操作!，获取的文本值: 登录成功 
+2023-03-08 18:18:53,539 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 18:18:53,612 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#role')
+2023-03-08 18:18:53,649 INFO [base.py(base_get_text:61)] - 正在对: ('css selector', '#role')元素获取文本操作!，获取的文本值: 角色：ROLE_STUDENT 
+2023-03-08 18:18:53,649 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#role')
+2023-03-08 18:19:01,539 INFO [base.py(__init__:19)] - 正在初始化driver：
+2023-03-08 18:19:01,541 INFO [page_mp_login.py(page_mp_login:34)] - 正在调用登录业务方法，用户名: 11111 密码: 123
+2023-03-08 18:19:01,541 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', "[placeholder='请输入用户名']")
+2023-03-08 18:19:01,557 INFO [base.py(base_input:42)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行清空操作! 
+2023-03-08 18:19:01,594 INFO [base.py(base_input:45)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行输入:11111 操作!
+2023-03-08 18:19:01,681 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', " [placeholder='请输入密码']")
+2023-03-08 18:19:01,704 INFO [base.py(base_input:42)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行清空操作! 
+2023-03-08 18:19:01,743 INFO [base.py(base_input:45)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行输入:123 操作!
+2023-03-08 18:19:01,815 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#login')
+2023-03-08 18:19:01,882 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 18:19:02,434 INFO [base.py(base_get_text:61)] - 正在对: ('css selector', '[role="alert"] > p')元素获取文本操作!，获取的文本值: 登录成功 
+2023-03-08 18:19:02,434 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 18:19:02,450 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#role')
+2023-03-08 18:19:02,477 INFO [base.py(base_get_text:61)] - 正在对: ('css selector', '#role')元素获取文本操作!，获取的文本值: 角色：ROLE_TEACHER 
+2023-03-08 18:19:02,477 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#role')
+2023-03-08 18:19:08,077 INFO [base.py(__init__:19)] - 正在初始化driver：
+2023-03-08 18:19:08,080 INFO [page_mp_login.py(page_mp_login:34)] - 正在调用登录业务方法，用户名: admin 密码: admin
+2023-03-08 18:19:08,080 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', "[placeholder='请输入用户名']")
+2023-03-08 18:19:08,093 INFO [base.py(base_input:42)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行清空操作! 
+2023-03-08 18:19:08,134 INFO [base.py(base_input:45)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行输入:admin 操作!
+2023-03-08 18:19:08,226 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', " [placeholder='请输入密码']")
+2023-03-08 18:19:08,238 INFO [base.py(base_input:42)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行清空操作! 
+2023-03-08 18:19:08,277 INFO [base.py(base_input:45)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行输入:admin 操作!
+2023-03-08 18:19:08,360 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#login')
+2023-03-08 18:19:08,439 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 18:19:08,993 INFO [base.py(base_get_text:61)] - 正在对: ('css selector', '[role="alert"] > p')元素获取文本操作!，获取的文本值: 登录成功 
+2023-03-08 18:19:08,994 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 18:19:09,011 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#role')
+2023-03-08 18:19:09,038 INFO [base.py(base_get_text:61)] - 正在对: ('css selector', '#role')元素获取文本操作!，获取的文本值: 角色：ROLE_ADMIN 
+2023-03-08 18:19:09,039 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#role')
+2023-03-08 18:19:14,486 INFO [base.py(__init__:19)] - 正在初始化driver：
+2023-03-08 18:19:14,488 INFO [page_mp_login.py(page_mp_login:34)] - 正在调用登录业务方法，用户名: 11111 密码: 111
+2023-03-08 18:19:14,488 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', "[placeholder='请输入用户名']")
+2023-03-08 18:19:14,504 INFO [base.py(base_input:42)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行清空操作! 
+2023-03-08 18:19:14,538 INFO [base.py(base_input:45)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行输入:11111 操作!
+2023-03-08 18:19:14,623 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', " [placeholder='请输入密码']")
+2023-03-08 18:19:14,635 INFO [base.py(base_input:42)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行清空操作! 
+2023-03-08 18:19:14,671 INFO [base.py(base_input:45)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行输入:111 操作!
+2023-03-08 18:19:14,745 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#login')
+2023-03-08 18:19:14,806 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 18:19:15,363 INFO [base.py(base_get_text:61)] - 正在对: ('css selector', '[role="alert"] > p')元素获取文本操作!，获取的文本值: 用户名或密码错误 
+2023-03-08 18:19:15,364 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 18:19:53,189 INFO [base.py(__init__:19)] - 正在初始化driver：
+2023-03-08 18:19:53,189 INFO [page_mp_login.py(page_mp_title_login_success:41)] - 正在调用自媒体登录业务方法，用户名: 11111 密码: 123
+2023-03-08 18:19:53,190 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', "[placeholder='请输入用户名']")
+2023-03-08 18:19:53,206 INFO [base.py(base_input:42)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行清空操作! 
+2023-03-08 18:19:53,240 INFO [base.py(base_input:45)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行输入:11111 操作!
+2023-03-08 18:19:53,331 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', " [placeholder='请输入密码']")
+2023-03-08 18:19:53,345 INFO [base.py(base_input:42)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行清空操作! 
+2023-03-08 18:19:53,382 INFO [base.py(base_input:45)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行输入:123 操作!
+2023-03-08 18:19:53,456 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#login')
+2023-03-08 18:19:53,512 INFO [base.py(__init__:19)] - 正在初始化driver：
+2023-03-08 18:19:53,514 INFO [page_mp_title.py(page_mp_title:46)] - 正在调用上传课题业务方法，课题名称: test_title_01 课题难度: 适中 课题类型: 计算机软件研发类 课题来源: 自拟项目 课题摘要: xxx
+2023-03-08 18:19:53,514 INFO [base.py(base_find:28)] - 正在查找元素：('xpath', "//span[text()= '上传课题']/..")
+2023-03-08 18:19:54,096 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#title_name')
+2023-03-08 18:19:54,157 INFO [base.py(base_input:42)] - 正在对: ('css selector', '#title_name')元素执行清空操作! 
+2023-03-08 18:19:54,201 INFO [base.py(base_input:45)] - 正在对: ('css selector', '#title_name')元素执行输入:test_title_01 操作!
+2023-03-08 18:19:54,397 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', " [placeholder='请选择课题难度']")
+2023-03-08 18:19:55,473 INFO [base.py(base_find:28)] - 正在查找元素：('xpath', "//*[text( )='适中']")
+2023-03-08 18:19:55,543 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', " [placeholder='请选择课题类型']")
+2023-03-08 18:19:56,686 INFO [base.py(base_find:28)] - 正在查找元素：('xpath', "//*[text( )='计算机软件研发类']")
+2023-03-08 18:19:56,757 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', " [placeholder='请选择课题来源']")
+2023-03-08 18:19:57,915 INFO [base.py(base_find:28)] - 正在查找元素：('xpath', "//*[text( )='自拟项目']")
+2023-03-08 18:19:57,977 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#title_abstract')
+2023-03-08 18:19:57,991 INFO [base.py(base_input:42)] - 正在对: ('css selector', '#title_abstract')元素执行清空操作! 
+2023-03-08 18:19:58,020 INFO [base.py(base_input:45)] - 正在对: ('css selector', '#title_abstract')元素执行输入:xxx 操作!
+2023-03-08 18:19:58,108 INFO [base.py(base_find:28)] - 正在查找元素：('xpath', "//*[text()= '发布课题']/..")
+2023-03-08 18:19:58,174 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 18:19:58,716 INFO [base.py(base_get_text:61)] - 正在对: ('css selector', '[role="alert"] > p')元素获取文本操作!，获取的文本值: 发布课题成功 
+2023-03-08 18:19:58,717 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 18:19:58,735 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 18:19:58,748 INFO [base.py(base_get_text:61)] - 正在对: ('css selector', '[role="alert"] > p')元素获取文本操作!，获取的文本值: 发布课题成功 
+2023-03-08 18:19:58,749 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 18:20:40,592 INFO [base.py(__init__:19)] - 正在初始化driver：
+2023-03-08 18:20:40,592 INFO [page_mp_login.py(page_mp_title_login_success:41)] - 正在调用自媒体登录业务方法，用户名: 11111 密码: 123
+2023-03-08 18:20:40,592 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', "[placeholder='请输入用户名']")
+2023-03-08 18:20:40,621 INFO [base.py(base_input:42)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行清空操作! 
+2023-03-08 18:20:40,671 INFO [base.py(base_input:45)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行输入:11111 操作!
+2023-03-08 18:20:40,756 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', " [placeholder='请输入密码']")
+2023-03-08 18:20:40,770 INFO [base.py(base_input:42)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行清空操作! 
+2023-03-08 18:20:40,801 INFO [base.py(base_input:45)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行输入:123 操作!
+2023-03-08 18:20:40,864 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#login')
+2023-03-08 18:20:40,917 INFO [base.py(__init__:19)] - 正在初始化driver：
+2023-03-08 18:20:40,918 INFO [page_mp_addScore.py(page_mp_addScore:30)] - 正在调用添加成绩业务方法，学生姓名: 吴海韬 成绩: 70
+2023-03-08 18:20:40,918 INFO [base.py(base_find:28)] - 正在查找元素：('xpath', "//span[text()= '添加成绩']/..")
+2023-03-08 18:20:41,506 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', " [placeholder='请选择']")
+2023-03-08 18:20:42,634 INFO [base.py(base_find:28)] - 正在查找元素：('xpath', "//*[text( )='吴海韬']")
+2023-03-08 18:20:42,704 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#score')
+2023-03-08 18:20:42,716 INFO [base.py(base_input:42)] - 正在对: ('css selector', '#score')元素执行清空操作! 
+2023-03-08 18:20:42,753 INFO [base.py(base_input:45)] - 正在对: ('css selector', '#score')元素执行输入:70 操作!
+2023-03-08 18:20:42,817 INFO [base.py(base_find:28)] - 正在查找元素：('xpath', "//*[text()= '确认添加']/..")
+2023-03-08 18:20:42,878 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 18:20:42,914 INFO [base.py(base_get_text:61)] - 正在对: ('css selector', '[role="alert"] > p')元素获取文本操作!，获取的文本值: 登录成功 
+2023-03-08 18:20:42,914 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 18:20:42,934 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 18:20:42,950 INFO [base.py(base_get_text:61)] - 正在对: ('css selector', '[role="alert"] > p')元素获取文本操作!，获取的文本值: 登录成功 
+2023-03-08 18:20:42,951 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 18:20:42,970 ERROR [test03_mp_score.py(test_mp_score:23)] - 断言出错，错误信息: assert '添加成功' == '登录成功'
+  - 登录成功
+  + 添加成功
+2023-03-08 18:20:42,970 INFO [base.py(base_get_img:66)] - 断言出错， 正在执行截图操作！
+2023-03-08 18:20:49,076 INFO [base.py(__init__:19)] - 正在初始化driver：
+2023-03-08 18:20:49,077 INFO [page_mp_login.py(page_mp_title_login_success:41)] - 正在调用自媒体登录业务方法，用户名: 11111 密码: 123
+2023-03-08 18:20:49,077 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', "[placeholder='请输入用户名']")
+2023-03-08 18:20:49,098 INFO [base.py(base_input:42)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行清空操作! 
+2023-03-08 18:20:49,137 INFO [base.py(base_input:45)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行输入:11111 操作!
+2023-03-08 18:20:49,228 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', " [placeholder='请输入密码']")
+2023-03-08 18:20:49,241 INFO [base.py(base_input:42)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行清空操作! 
+2023-03-08 18:20:49,279 INFO [base.py(base_input:45)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行输入:123 操作!
+2023-03-08 18:20:49,343 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#login')
+2023-03-08 18:20:49,394 INFO [base.py(__init__:19)] - 正在初始化driver：
+2023-03-08 18:20:49,395 INFO [page_mp_addScore.py(page_mp_addScore:30)] - 正在调用添加成绩业务方法，学生姓名: 李佳伟 成绩: 80
+2023-03-08 18:20:49,395 INFO [base.py(base_find:28)] - 正在查找元素：('xpath', "//span[text()= '添加成绩']/..")
+2023-03-08 18:20:49,973 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', " [placeholder='请选择']")
+2023-03-08 18:20:51,097 INFO [base.py(base_find:28)] - 正在查找元素：('xpath', "//*[text( )='李佳伟']")
+2023-03-08 18:20:51,172 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#score')
+2023-03-08 18:20:51,187 INFO [base.py(base_input:42)] - 正在对: ('css selector', '#score')元素执行清空操作! 
+2023-03-08 18:20:51,226 INFO [base.py(base_input:45)] - 正在对: ('css selector', '#score')元素执行输入:80 操作!
+2023-03-08 18:20:51,292 INFO [base.py(base_find:28)] - 正在查找元素：('xpath', "//*[text()= '确认添加']/..")
+2023-03-08 18:20:51,347 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 18:20:51,382 INFO [base.py(base_get_text:61)] - 正在对: ('css selector', '[role="alert"] > p')元素获取文本操作!，获取的文本值: 登录成功 
+2023-03-08 18:20:51,382 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 18:20:51,398 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 18:20:51,419 INFO [base.py(base_get_text:61)] - 正在对: ('css selector', '[role="alert"] > p')元素获取文本操作!，获取的文本值: 登录成功 
+2023-03-08 18:20:51,419 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 18:20:51,437 ERROR [test03_mp_score.py(test_mp_score:23)] - 断言出错，错误信息: assert '该学生已有成绩' == '登录成功'
+  - 登录成功
+  + 该学生已有成绩
+2023-03-08 18:20:51,437 INFO [base.py(base_get_img:66)] - 断言出错， 正在执行截图操作！
+2023-03-08 18:20:56,899 INFO [base.py(__init__:19)] - 正在初始化driver：
+2023-03-08 18:20:56,900 INFO [page_mp_login.py(page_mp_title_login_success:41)] - 正在调用自媒体登录业务方法，用户名: 11111 密码: 123
+2023-03-08 18:20:56,900 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', "[placeholder='请输入用户名']")
+2023-03-08 18:20:56,916 INFO [base.py(base_input:42)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行清空操作! 
+2023-03-08 18:20:56,965 INFO [base.py(base_input:45)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行输入:11111 操作!
+2023-03-08 18:20:57,032 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', " [placeholder='请输入密码']")
+2023-03-08 18:20:57,047 INFO [base.py(base_input:42)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行清空操作! 
+2023-03-08 18:20:57,078 INFO [base.py(base_input:45)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行输入:123 操作!
+2023-03-08 18:20:57,138 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#login')
+2023-03-08 18:20:57,191 INFO [base.py(__init__:19)] - 正在初始化driver：
+2023-03-08 18:20:57,192 INFO [page_mp_addScore.py(page_mp_addScore:30)] - 正在调用添加成绩业务方法，学生姓名: 石珂 成绩: 80
+2023-03-08 18:20:57,192 INFO [base.py(base_find:28)] - 正在查找元素：('xpath', "//span[text()= '添加成绩']/..")
+2023-03-08 18:20:57,786 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', " [placeholder='请选择']")
+2023-03-08 18:20:58,912 INFO [base.py(base_find:28)] - 正在查找元素：('xpath', "//*[text( )='石珂']")
+2023-03-08 18:20:58,977 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#score')
+2023-03-08 18:20:58,990 INFO [base.py(base_input:42)] - 正在对: ('css selector', '#score')元素执行清空操作! 
+2023-03-08 18:20:59,031 INFO [base.py(base_input:45)] - 正在对: ('css selector', '#score')元素执行输入:80 操作!
+2023-03-08 18:20:59,097 INFO [base.py(base_find:28)] - 正在查找元素：('xpath', "//*[text()= '确认添加']/..")
+2023-03-08 18:20:59,152 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 18:20:59,187 INFO [base.py(base_get_text:61)] - 正在对: ('css selector', '[role="alert"] > p')元素获取文本操作!，获取的文本值: 登录成功 
+2023-03-08 18:20:59,187 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 18:20:59,205 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 18:20:59,222 INFO [base.py(base_get_text:61)] - 正在对: ('css selector', '[role="alert"] > p')元素获取文本操作!，获取的文本值: 登录成功 
+2023-03-08 18:20:59,222 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 18:20:59,237 ERROR [test03_mp_score.py(test_mp_score:23)] - 断言出错，错误信息: assert '该学生毕业论文未通过' == '登录成功'
+  - 登录成功
+  + 该学生毕业论文未通过
+2023-03-08 18:20:59,237 INFO [base.py(base_get_img:66)] - 断言出错， 正在执行截图操作！
+2023-03-08 18:24:56,495 INFO [base.py(__init__:19)] - 正在初始化driver：
+2023-03-08 18:24:56,495 INFO [page_mp_login.py(page_mp_title_login_success:41)] - 正在调用自媒体登录业务方法，用户名: 11111 密码: 123
+2023-03-08 18:24:56,496 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', "[placeholder='请输入用户名']")
+2023-03-08 18:24:56,513 INFO [base.py(base_input:42)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行清空操作! 
+2023-03-08 18:24:56,557 INFO [base.py(base_input:45)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行输入:11111 操作!
+2023-03-08 18:24:56,646 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', " [placeholder='请输入密码']")
+2023-03-08 18:24:56,657 INFO [base.py(base_input:42)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行清空操作! 
+2023-03-08 18:24:56,690 INFO [base.py(base_input:45)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行输入:123 操作!
+2023-03-08 18:24:56,753 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#login')
+2023-03-08 18:24:56,813 INFO [base.py(__init__:19)] - 正在初始化driver：
+2023-03-08 18:24:56,815 INFO [page_mp_addScore.py(page_mp_addScore:30)] - 正在调用添加成绩业务方法，学生姓名: 吴海韬 成绩: 70
+2023-03-08 18:24:56,815 INFO [base.py(base_find:28)] - 正在查找元素：('xpath', "//span[text()= '添加成绩']/..")
+2023-03-08 18:24:56,983 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', " [placeholder='请选择']")
+2023-03-08 18:24:58,099 INFO [base.py(base_find:28)] - 正在查找元素：('xpath', "//*[text( )='吴海韬']")
+2023-03-08 18:24:58,161 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#score')
+2023-03-08 18:24:58,180 INFO [base.py(base_input:42)] - 正在对: ('css selector', '#score')元素执行清空操作! 
+2023-03-08 18:24:58,218 INFO [base.py(base_input:45)] - 正在对: ('css selector', '#score')元素执行输入:70 操作!
+2023-03-08 18:24:58,282 INFO [base.py(base_find:28)] - 正在查找元素：('xpath', "//*[text()= '确认添加']/..")
+2023-03-08 18:24:58,339 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 18:24:58,374 INFO [base.py(base_get_text:61)] - 正在对: ('css selector', '[role="alert"] > p')元素获取文本操作!，获取的文本值: 登录成功 
+2023-03-08 18:24:58,375 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 18:24:58,396 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 18:24:58,410 INFO [base.py(base_get_text:61)] - 正在对: ('css selector', '[role="alert"] > p')元素获取文本操作!，获取的文本值: 登录成功 
+2023-03-08 18:24:58,411 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 18:24:58,427 ERROR [test03_mp_score.py(test_mp_score:23)] - 断言出错，错误信息: assert '添加成功' == '登录成功'
+  - 登录成功
+  + 添加成功
+2023-03-08 18:24:58,427 INFO [base.py(base_get_img:66)] - 断言出错， 正在执行截图操作！
+2023-03-08 18:25:22,281 INFO [base.py(__init__:19)] - 正在初始化driver：
+2023-03-08 18:25:22,281 INFO [page_mp_login.py(page_mp_title_login_success:41)] - 正在调用自媒体登录业务方法，用户名: 11111 密码: 123
+2023-03-08 18:25:22,282 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', "[placeholder='请输入用户名']")
+2023-03-08 18:25:22,302 INFO [base.py(base_input:42)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行清空操作! 
+2023-03-08 18:25:22,336 INFO [base.py(base_input:45)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行输入:11111 操作!
+2023-03-08 18:25:22,425 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', " [placeholder='请输入密码']")
+2023-03-08 18:25:22,442 INFO [base.py(base_input:42)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行清空操作! 
+2023-03-08 18:25:22,480 INFO [base.py(base_input:45)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行输入:123 操作!
+2023-03-08 18:25:22,551 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#login')
+2023-03-08 18:25:22,613 INFO [base.py(__init__:19)] - 正在初始化driver：
+2023-03-08 18:25:22,616 INFO [page_mp_addScore.py(page_mp_addScore:31)] - 正在调用添加成绩业务方法，学生姓名: 吴海韬 成绩: 70
+2023-03-08 18:25:22,616 INFO [base.py(base_find:28)] - 正在查找元素：('xpath', "//span[text()= '添加成绩']/..")
+2023-03-08 18:25:22,815 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', " [placeholder='请选择']")
+2023-03-08 18:25:24,014 INFO [base.py(base_find:28)] - 正在查找元素：('xpath', "//*[text( )='吴海韬']")
+2023-03-08 18:25:24,076 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#score')
+2023-03-08 18:25:24,090 INFO [base.py(base_input:42)] - 正在对: ('css selector', '#score')元素执行清空操作! 
+2023-03-08 18:25:24,126 INFO [base.py(base_input:45)] - 正在对: ('css selector', '#score')元素执行输入:70 操作!
+2023-03-08 18:25:24,194 INFO [base.py(base_find:28)] - 正在查找元素：('xpath', "//*[text()= '确认添加']/..")
+2023-03-08 18:25:27,266 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 18:25:27,303 INFO [base.py(base_get_text:61)] - 正在对: ('css selector', '[role="alert"] > p')元素获取文本操作!，获取的文本值: 该学生已有成绩 
+2023-03-08 18:25:27,303 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 18:25:30,327 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 18:25:36,199 ERROR [test03_mp_score.py(test_mp_score:23)] - 断言出错，错误信息: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+
+2023-03-08 18:25:36,199 INFO [base.py(base_get_img:66)] - 断言出错， 正在执行截图操作！
+2023-03-08 18:25:55,529 INFO [base.py(__init__:19)] - 正在初始化driver：
+2023-03-08 18:25:55,530 INFO [page_mp_login.py(page_mp_title_login_success:41)] - 正在调用自媒体登录业务方法，用户名: 11111 密码: 123
+2023-03-08 18:25:55,530 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', "[placeholder='请输入用户名']")
+2023-03-08 18:25:55,546 INFO [base.py(base_input:42)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行清空操作! 
+2023-03-08 18:25:55,577 INFO [base.py(base_input:45)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行输入:11111 操作!
+2023-03-08 18:25:55,660 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', " [placeholder='请输入密码']")
+2023-03-08 18:25:55,674 INFO [base.py(base_input:42)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行清空操作! 
+2023-03-08 18:25:55,709 INFO [base.py(base_input:45)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行输入:123 操作!
+2023-03-08 18:25:55,789 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#login')
+2023-03-08 18:25:55,849 INFO [base.py(__init__:19)] - 正在初始化driver：
+2023-03-08 18:25:55,852 INFO [page_mp_addScore.py(page_mp_addScore:31)] - 正在调用添加成绩业务方法，学生姓名: 吴海韬 成绩: 70
+2023-03-08 18:25:55,852 INFO [base.py(base_find:28)] - 正在查找元素：('xpath', "//span[text()= '添加成绩']/..")
+2023-03-08 18:25:56,026 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', " [placeholder='请选择']")
+2023-03-08 18:25:57,169 INFO [base.py(base_find:28)] - 正在查找元素：('xpath', "//*[text( )='吴海韬']")
+2023-03-08 18:25:57,233 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#score')
+2023-03-08 18:25:57,245 INFO [base.py(base_input:42)] - 正在对: ('css selector', '#score')元素执行清空操作! 
+2023-03-08 18:25:57,286 INFO [base.py(base_input:45)] - 正在对: ('css selector', '#score')元素执行输入:70 操作!
+2023-03-08 18:25:59,356 INFO [base.py(base_find:28)] - 正在查找元素：('xpath', "//*[text()= '确认添加']/..")
+2023-03-08 18:25:59,412 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 18:25:59,507 INFO [base.py(base_get_text:61)] - 正在对: ('css selector', '[role="alert"] > p')元素获取文本操作!，获取的文本值: 该学生已有成绩 
+2023-03-08 18:25:59,508 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 18:25:59,528 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 18:25:59,543 INFO [base.py(base_get_text:61)] - 正在对: ('css selector', '[role="alert"] > p')元素获取文本操作!，获取的文本值: 该学生已有成绩 
+2023-03-08 18:25:59,543 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 18:25:59,563 ERROR [test03_mp_score.py(test_mp_score:23)] - 断言出错，错误信息: assert '添加成功' == '该学生已有成绩'
+  - 该学生已有成绩
+  + 添加成功
+2023-03-08 18:25:59,563 INFO [base.py(base_get_img:66)] - 断言出错， 正在执行截图操作！
+2023-03-08 18:26:05,251 INFO [base.py(__init__:19)] - 正在初始化driver：
+2023-03-08 18:26:05,251 INFO [page_mp_login.py(page_mp_title_login_success:41)] - 正在调用自媒体登录业务方法，用户名: 11111 密码: 123
+2023-03-08 18:26:05,252 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', "[placeholder='请输入用户名']")
+2023-03-08 18:26:05,268 INFO [base.py(base_input:42)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行清空操作! 
+2023-03-08 18:26:05,303 INFO [base.py(base_input:45)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行输入:11111 操作!
+2023-03-08 18:26:05,397 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', " [placeholder='请输入密码']")
+2023-03-08 18:26:05,414 INFO [base.py(base_input:42)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行清空操作! 
+2023-03-08 18:26:05,451 INFO [base.py(base_input:45)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行输入:123 操作!
+2023-03-08 18:26:05,529 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#login')
+2023-03-08 18:26:05,584 INFO [base.py(__init__:19)] - 正在初始化driver：
+2023-03-08 18:26:05,587 INFO [page_mp_addScore.py(page_mp_addScore:31)] - 正在调用添加成绩业务方法，学生姓名: 李佳伟 成绩: 80
+2023-03-08 18:26:05,587 INFO [base.py(base_find:28)] - 正在查找元素：('xpath', "//span[text()= '添加成绩']/..")
+2023-03-08 18:26:05,782 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', " [placeholder='请选择']")
+2023-03-08 18:26:06,898 INFO [base.py(base_find:28)] - 正在查找元素：('xpath', "//*[text( )='李佳伟']")
+2023-03-08 18:26:06,966 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#score')
+2023-03-08 18:26:06,977 INFO [base.py(base_input:42)] - 正在对: ('css selector', '#score')元素执行清空操作! 
+2023-03-08 18:26:07,012 INFO [base.py(base_input:45)] - 正在对: ('css selector', '#score')元素执行输入:80 操作!
+2023-03-08 18:26:09,075 INFO [base.py(base_find:28)] - 正在查找元素：('xpath', "//*[text()= '确认添加']/..")
+2023-03-08 18:26:09,134 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 18:26:09,171 INFO [base.py(base_get_text:61)] - 正在对: ('css selector', '[role="alert"] > p')元素获取文本操作!，获取的文本值:  
+2023-03-08 18:26:09,171 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 18:26:09,188 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 18:26:09,205 INFO [base.py(base_get_text:61)] - 正在对: ('css selector', '[role="alert"] > p')元素获取文本操作!，获取的文本值: 该学生已有成绩 
+2023-03-08 18:26:09,205 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 18:26:14,622 INFO [base.py(__init__:19)] - 正在初始化driver：
+2023-03-08 18:26:14,622 INFO [page_mp_login.py(page_mp_title_login_success:41)] - 正在调用自媒体登录业务方法，用户名: 11111 密码: 123
+2023-03-08 18:26:14,622 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', "[placeholder='请输入用户名']")
+2023-03-08 18:26:14,641 INFO [base.py(base_input:42)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行清空操作! 
+2023-03-08 18:26:14,674 INFO [base.py(base_input:45)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行输入:11111 操作!
+2023-03-08 18:26:14,759 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', " [placeholder='请输入密码']")
+2023-03-08 18:26:14,775 INFO [base.py(base_input:42)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行清空操作! 
+2023-03-08 18:26:14,808 INFO [base.py(base_input:45)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行输入:123 操作!
+2023-03-08 18:26:14,878 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#login')
+2023-03-08 18:26:14,941 INFO [base.py(__init__:19)] - 正在初始化driver：
+2023-03-08 18:26:14,944 INFO [page_mp_addScore.py(page_mp_addScore:31)] - 正在调用添加成绩业务方法，学生姓名: 石珂 成绩: 80
+2023-03-08 18:26:14,945 INFO [base.py(base_find:28)] - 正在查找元素：('xpath', "//span[text()= '添加成绩']/..")
+2023-03-08 18:26:15,116 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', " [placeholder='请选择']")
+2023-03-08 18:26:16,265 INFO [base.py(base_find:28)] - 正在查找元素：('xpath', "//*[text( )='石珂']")
+2023-03-08 18:26:16,334 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#score')
+2023-03-08 18:26:16,348 INFO [base.py(base_input:42)] - 正在对: ('css selector', '#score')元素执行清空操作! 
+2023-03-08 18:26:16,399 INFO [base.py(base_input:45)] - 正在对: ('css selector', '#score')元素执行输入:80 操作!
+2023-03-08 18:26:18,475 INFO [base.py(base_find:28)] - 正在查找元素：('xpath', "//*[text()= '确认添加']/..")
+2023-03-08 18:26:18,530 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 18:26:18,566 INFO [base.py(base_get_text:61)] - 正在对: ('css selector', '[role="alert"] > p')元素获取文本操作!，获取的文本值:  
+2023-03-08 18:26:18,566 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 18:26:18,587 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 18:26:18,601 INFO [base.py(base_get_text:61)] - 正在对: ('css selector', '[role="alert"] > p')元素获取文本操作!，获取的文本值: 该学生毕业论文未通过 
+2023-03-08 18:26:18,601 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 21:50:58,410 INFO [base.py(__init__:19)] - 正在初始化driver：
+2023-03-08 21:50:58,412 INFO [page_mp_login.py(page_mp_login:34)] - 正在调用登录业务方法，用户名: haitao 密码: 123
+2023-03-08 21:50:58,413 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', "[placeholder='请输入用户名']")
+2023-03-08 21:50:58,429 INFO [base.py(base_input:42)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行清空操作! 
+2023-03-08 21:50:58,468 INFO [base.py(base_input:45)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行输入:haitao 操作!
+2023-03-08 21:50:58,545 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', " [placeholder='请输入密码']")
+2023-03-08 21:50:58,559 INFO [base.py(base_input:42)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行清空操作! 
+2023-03-08 21:50:58,587 INFO [base.py(base_input:45)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行输入:123 操作!
+2023-03-08 21:50:58,645 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#login')
+2023-03-08 21:50:58,696 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 21:50:59,288 INFO [base.py(base_get_text:61)] - 正在对: ('css selector', '[role="alert"] > p')元素获取文本操作!，获取的文本值: 登录成功 
+2023-03-08 21:50:59,289 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 21:50:59,304 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#role')
+2023-03-08 21:50:59,326 INFO [base.py(base_get_text:61)] - 正在对: ('css selector', '#role')元素获取文本操作!，获取的文本值: 角色：ROLE_STUDENT 
+2023-03-08 21:50:59,326 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#role')
+2023-03-08 21:51:04,872 INFO [base.py(__init__:19)] - 正在初始化driver：
+2023-03-08 21:51:04,874 INFO [page_mp_login.py(page_mp_login:34)] - 正在调用登录业务方法，用户名: 11111 密码: 123
+2023-03-08 21:51:04,874 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', "[placeholder='请输入用户名']")
+2023-03-08 21:51:04,888 INFO [base.py(base_input:42)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行清空操作! 
+2023-03-08 21:51:04,918 INFO [base.py(base_input:45)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行输入:11111 操作!
+2023-03-08 21:51:04,994 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', " [placeholder='请输入密码']")
+2023-03-08 21:51:05,006 INFO [base.py(base_input:42)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行清空操作! 
+2023-03-08 21:51:05,038 INFO [base.py(base_input:45)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行输入:123 操作!
+2023-03-08 21:51:05,100 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#login')
+2023-03-08 21:51:05,154 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 21:51:05,693 INFO [base.py(base_get_text:61)] - 正在对: ('css selector', '[role="alert"] > p')元素获取文本操作!，获取的文本值: 登录成功 
+2023-03-08 21:51:05,693 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 21:51:05,709 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#role')
+2023-03-08 21:51:05,733 INFO [base.py(base_get_text:61)] - 正在对: ('css selector', '#role')元素获取文本操作!，获取的文本值: 角色：ROLE_TEACHER 
+2023-03-08 21:51:05,733 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#role')
+2023-03-08 21:51:11,263 INFO [base.py(__init__:19)] - 正在初始化driver：
+2023-03-08 21:51:11,265 INFO [page_mp_login.py(page_mp_login:34)] - 正在调用登录业务方法，用户名: admin 密码: admin
+2023-03-08 21:51:11,265 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', "[placeholder='请输入用户名']")
+2023-03-08 21:51:11,280 INFO [base.py(base_input:42)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行清空操作! 
+2023-03-08 21:51:11,311 INFO [base.py(base_input:45)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行输入:admin 操作!
+2023-03-08 21:51:11,382 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', " [placeholder='请输入密码']")
+2023-03-08 21:51:11,396 INFO [base.py(base_input:42)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行清空操作! 
+2023-03-08 21:51:11,427 INFO [base.py(base_input:45)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行输入:admin 操作!
+2023-03-08 21:51:11,500 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#login')
+2023-03-08 21:51:11,562 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 21:51:12,102 INFO [base.py(base_get_text:61)] - 正在对: ('css selector', '[role="alert"] > p')元素获取文本操作!，获取的文本值: 登录成功 
+2023-03-08 21:51:12,102 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 21:51:12,117 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#role')
+2023-03-08 21:51:12,140 INFO [base.py(base_get_text:61)] - 正在对: ('css selector', '#role')元素获取文本操作!，获取的文本值: 角色：ROLE_ADMIN 
+2023-03-08 21:51:12,140 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#role')
+2023-03-08 21:51:17,606 INFO [base.py(__init__:19)] - 正在初始化driver：
+2023-03-08 21:51:17,607 INFO [page_mp_login.py(page_mp_login:34)] - 正在调用登录业务方法，用户名: 11111 密码: 111
+2023-03-08 21:51:17,607 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', "[placeholder='请输入用户名']")
+2023-03-08 21:51:17,619 INFO [base.py(base_input:42)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行清空操作! 
+2023-03-08 21:51:17,649 INFO [base.py(base_input:45)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行输入:11111 操作!
+2023-03-08 21:51:17,729 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', " [placeholder='请输入密码']")
+2023-03-08 21:51:17,741 INFO [base.py(base_input:42)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行清空操作! 
+2023-03-08 21:51:17,774 INFO [base.py(base_input:45)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行输入:111 操作!
+2023-03-08 21:51:17,836 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#login')
+2023-03-08 21:51:17,887 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 21:51:18,425 INFO [base.py(base_get_text:61)] - 正在对: ('css selector', '[role="alert"] > p')元素获取文本操作!，获取的文本值: 用户名或密码错误 
+2023-03-08 21:51:18,425 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 21:51:23,708 INFO [base.py(__init__:19)] - 正在初始化driver：
+2023-03-08 21:51:23,708 INFO [page_mp_login.py(page_mp_title_login_success:41)] - 正在调用自媒体登录业务方法，用户名: 11111 密码: 123
+2023-03-08 21:51:23,708 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', "[placeholder='请输入用户名']")
+2023-03-08 21:51:23,723 INFO [base.py(base_input:42)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行清空操作! 
+2023-03-08 21:51:23,752 INFO [base.py(base_input:45)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行输入:11111 操作!
+2023-03-08 21:51:23,819 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', " [placeholder='请输入密码']")
+2023-03-08 21:51:23,831 INFO [base.py(base_input:42)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行清空操作! 
+2023-03-08 21:51:23,863 INFO [base.py(base_input:45)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行输入:123 操作!
+2023-03-08 21:51:23,922 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#login')
+2023-03-08 21:51:23,973 INFO [base.py(__init__:19)] - 正在初始化driver：
+2023-03-08 21:51:23,974 INFO [page_mp_title.py(page_mp_title:46)] - 正在调用上传课题业务方法，课题名称: test_title_01 课题难度: 适中 课题类型: 计算机软件研发类 课题来源: 自拟项目 课题摘要: xxx
+2023-03-08 21:51:23,974 INFO [base.py(base_find:28)] - 正在查找元素：('xpath', "//span[text()= '上传课题']/..")
+2023-03-08 21:51:24,544 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#title_name')
+2023-03-08 21:51:24,597 INFO [base.py(base_input:42)] - 正在对: ('css selector', '#title_name')元素执行清空操作! 
+2023-03-08 21:51:24,630 INFO [base.py(base_input:45)] - 正在对: ('css selector', '#title_name')元素执行输入:test_title_01 操作!
+2023-03-08 21:51:24,800 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', " [placeholder='请选择课题难度']")
+2023-03-08 21:51:25,856 INFO [base.py(base_find:28)] - 正在查找元素：('xpath', "//*[text( )='适中']")
+2023-03-08 21:51:25,909 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', " [placeholder='请选择课题类型']")
+2023-03-08 21:51:27,061 INFO [base.py(base_find:28)] - 正在查找元素：('xpath', "//*[text( )='计算机软件研发类']")
+2023-03-08 21:51:27,116 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', " [placeholder='请选择课题来源']")
+2023-03-08 21:51:28,251 INFO [base.py(base_find:28)] - 正在查找元素：('xpath', "//*[text( )='自拟项目']")
+2023-03-08 21:51:28,303 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#title_abstract')
+2023-03-08 21:51:28,315 INFO [base.py(base_input:42)] - 正在对: ('css selector', '#title_abstract')元素执行清空操作! 
+2023-03-08 21:51:28,342 INFO [base.py(base_input:45)] - 正在对: ('css selector', '#title_abstract')元素执行输入:xxx 操作!
+2023-03-08 21:51:28,416 INFO [base.py(base_find:28)] - 正在查找元素：('xpath', "//*[text()= '发布课题']/..")
+2023-03-08 21:51:28,477 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 21:51:29,026 INFO [base.py(base_get_text:61)] - 正在对: ('css selector', '[role="alert"] > p')元素获取文本操作!，获取的文本值: 发布课题成功 
+2023-03-08 21:51:29,027 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 21:51:29,044 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 21:51:29,060 INFO [base.py(base_get_text:61)] - 正在对: ('css selector', '[role="alert"] > p')元素获取文本操作!，获取的文本值: 发布课题成功 
+2023-03-08 21:51:29,060 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 21:51:36,187 INFO [base.py(__init__:19)] - 正在初始化driver：
+2023-03-08 21:51:36,188 INFO [page_mp_login.py(page_mp_title_login_success:41)] - 正在调用自媒体登录业务方法，用户名: 11111 密码: 123
+2023-03-08 21:51:36,189 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', "[placeholder='请输入用户名']")
+2023-03-08 21:51:36,203 INFO [base.py(base_input:42)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行清空操作! 
+2023-03-08 21:51:36,235 INFO [base.py(base_input:45)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行输入:11111 操作!
+2023-03-08 21:51:36,312 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', " [placeholder='请输入密码']")
+2023-03-08 21:51:36,324 INFO [base.py(base_input:42)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行清空操作! 
+2023-03-08 21:51:36,357 INFO [base.py(base_input:45)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行输入:123 操作!
+2023-03-08 21:51:36,420 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#login')
+2023-03-08 21:51:36,473 INFO [base.py(__init__:19)] - 正在初始化driver：
+2023-03-08 21:51:36,476 INFO [page_mp_addScore.py(page_mp_addScore:31)] - 正在调用添加成绩业务方法，学生姓名: 吴海韬 成绩: 70
+2023-03-08 21:51:36,476 INFO [base.py(base_find:28)] - 正在查找元素：('xpath', "//span[text()= '添加成绩']/..")
+2023-03-08 21:51:36,637 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', " [placeholder='请选择']")
+2023-03-08 21:51:37,743 INFO [base.py(base_find:28)] - 正在查找元素：('xpath', "//*[text( )='吴海韬']")
+2023-03-08 21:51:37,797 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#score')
+2023-03-08 21:51:37,809 INFO [base.py(base_input:42)] - 正在对: ('css selector', '#score')元素执行清空操作! 
+2023-03-08 21:51:37,840 INFO [base.py(base_input:45)] - 正在对: ('css selector', '#score')元素执行输入:70 操作!
+2023-03-08 21:51:39,901 INFO [base.py(base_find:28)] - 正在查找元素：('xpath', "//*[text()= '确认添加']/..")
+2023-03-08 21:51:39,950 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 21:51:40,034 INFO [base.py(base_get_text:61)] - 正在对: ('css selector', '[role="alert"] > p')元素获取文本操作!，获取的文本值: 该学生已有成绩 
+2023-03-08 21:51:40,035 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 21:51:40,049 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 21:51:40,064 INFO [base.py(base_get_text:61)] - 正在对: ('css selector', '[role="alert"] > p')元素获取文本操作!，获取的文本值: 该学生已有成绩 
+2023-03-08 21:51:40,065 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 21:51:40,080 ERROR [test03_mp_score.py(test_mp_score:23)] - 断言出错，错误信息: assert '添加成功' == '该学生已有成绩'
+  - 该学生已有成绩
+  + 添加成功
+2023-03-08 21:51:40,081 INFO [base.py(base_get_img:66)] - 断言出错， 正在执行截图操作！
+2023-03-08 21:51:45,753 INFO [base.py(__init__:19)] - 正在初始化driver：
+2023-03-08 21:51:45,754 INFO [page_mp_login.py(page_mp_title_login_success:41)] - 正在调用自媒体登录业务方法，用户名: 11111 密码: 123
+2023-03-08 21:51:45,754 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', "[placeholder='请输入用户名']")
+2023-03-08 21:51:45,768 INFO [base.py(base_input:42)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行清空操作! 
+2023-03-08 21:51:45,798 INFO [base.py(base_input:45)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行输入:11111 操作!
+2023-03-08 21:51:45,872 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', " [placeholder='请输入密码']")
+2023-03-08 21:51:45,886 INFO [base.py(base_input:42)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行清空操作! 
+2023-03-08 21:51:45,918 INFO [base.py(base_input:45)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行输入:123 操作!
+2023-03-08 21:51:45,981 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#login')
+2023-03-08 21:51:46,033 INFO [base.py(__init__:19)] - 正在初始化driver：
+2023-03-08 21:51:46,036 INFO [page_mp_addScore.py(page_mp_addScore:31)] - 正在调用添加成绩业务方法，学生姓名: 李佳伟 成绩: 80
+2023-03-08 21:51:46,036 INFO [base.py(base_find:28)] - 正在查找元素：('xpath', "//span[text()= '添加成绩']/..")
+2023-03-08 21:51:46,196 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', " [placeholder='请选择']")
+2023-03-08 21:51:47,294 INFO [base.py(base_find:28)] - 正在查找元素：('xpath', "//*[text( )='李佳伟']")
+2023-03-08 21:51:47,353 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#score')
+2023-03-08 21:51:47,365 INFO [base.py(base_input:42)] - 正在对: ('css selector', '#score')元素执行清空操作! 
+2023-03-08 21:51:47,395 INFO [base.py(base_input:45)] - 正在对: ('css selector', '#score')元素执行输入:80 操作!
+2023-03-08 21:51:49,454 INFO [base.py(base_find:28)] - 正在查找元素：('xpath', "//*[text()= '确认添加']/..")
+2023-03-08 21:51:49,504 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 21:51:49,599 INFO [base.py(base_get_text:61)] - 正在对: ('css selector', '[role="alert"] > p')元素获取文本操作!，获取的文本值: 该学生已有成绩 
+2023-03-08 21:51:49,599 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 21:51:49,617 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 21:51:49,633 INFO [base.py(base_get_text:61)] - 正在对: ('css selector', '[role="alert"] > p')元素获取文本操作!，获取的文本值: 该学生已有成绩 
+2023-03-08 21:51:49,634 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 21:51:55,025 INFO [base.py(__init__:19)] - 正在初始化driver：
+2023-03-08 21:51:55,025 INFO [page_mp_login.py(page_mp_title_login_success:41)] - 正在调用自媒体登录业务方法，用户名: 11111 密码: 123
+2023-03-08 21:51:55,025 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', "[placeholder='请输入用户名']")
+2023-03-08 21:51:55,039 INFO [base.py(base_input:42)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行清空操作! 
+2023-03-08 21:51:55,073 INFO [base.py(base_input:45)] - 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行输入:11111 操作!
+2023-03-08 21:51:55,152 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', " [placeholder='请输入密码']")
+2023-03-08 21:51:55,164 INFO [base.py(base_input:42)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行清空操作! 
+2023-03-08 21:51:55,195 INFO [base.py(base_input:45)] - 正在对: ('css selector', " [placeholder='请输入密码']")元素执行输入:123 操作!
+2023-03-08 21:51:55,258 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#login')
+2023-03-08 21:51:55,310 INFO [base.py(__init__:19)] - 正在初始化driver：
+2023-03-08 21:51:55,313 INFO [page_mp_addScore.py(page_mp_addScore:31)] - 正在调用添加成绩业务方法，学生姓名: 石珂 成绩: 80
+2023-03-08 21:51:55,313 INFO [base.py(base_find:28)] - 正在查找元素：('xpath', "//span[text()= '添加成绩']/..")
+2023-03-08 21:51:55,488 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', " [placeholder='请选择']")
+2023-03-08 21:51:56,593 INFO [base.py(base_find:28)] - 正在查找元素：('xpath', "//*[text( )='石珂']")
+2023-03-08 21:51:56,646 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '#score')
+2023-03-08 21:51:56,659 INFO [base.py(base_input:42)] - 正在对: ('css selector', '#score')元素执行清空操作! 
+2023-03-08 21:51:56,697 INFO [base.py(base_input:45)] - 正在对: ('css selector', '#score')元素执行输入:80 操作!
+2023-03-08 21:51:58,758 INFO [base.py(base_find:28)] - 正在查找元素：('xpath', "//*[text()= '确认添加']/..")
+2023-03-08 21:51:58,816 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 21:51:58,903 INFO [base.py(base_get_text:61)] - 正在对: ('css selector', '[role="alert"] > p')元素获取文本操作!，获取的文本值: 该学生毕业论文未通过 
+2023-03-08 21:51:58,904 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 21:51:58,919 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')
+2023-03-08 21:51:58,933 INFO [base.py(base_get_text:61)] - 正在对: ('css selector', '[role="alert"] > p')元素获取文本操作!，获取的文本值: 该学生毕业论文未通过 
+2023-03-08 21:51:58,933 INFO [base.py(base_find:28)] - 正在查找元素：('css selector', '[role="alert"] > p')

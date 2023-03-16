@@ -1,0 +1,12 @@
+test_add_score_success:
+  # 学生,成绩,期望弹窗信息
+  # student, score, expect_alert
+  - ["吴海韬", "70", "添加成功"]
+
+
+test_add_score_error:
+  # 学生,成绩,期望弹窗信息
+  # student, score, expect_alert
+  - ["李佳伟", "80", "该学生已有成绩"]
+  - ["石珂", "80", "该学生毕业论文未通过"]
+

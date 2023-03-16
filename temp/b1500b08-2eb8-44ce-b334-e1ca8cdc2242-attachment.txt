@@ -1,0 +1,42 @@
+[32mINFO    [0m root:base.py:19 正在初始化driver：
+[32mINFO    [0m root:page_mp_login.py:46 正在调用自媒体登录业务方法，用户名: 11111 密码: 123
+[32mINFO    [0m root:base.py:28 正在查找元素：('css selector', "[placeholder='请输入用户名']")
+[32mINFO    [0m root:base.py:54 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行清空操作! 
+[32mINFO    [0m root:base.py:57 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行输入:11111 操作!
+[32mINFO    [0m root:base.py:28 正在查找元素：('css selector', " [placeholder='请输入密码']")
+[32mINFO    [0m root:base.py:54 正在对: ('css selector', " [placeholder='请输入密码']")元素执行清空操作! 
+[32mINFO    [0m root:base.py:57 正在对: ('css selector', " [placeholder='请输入密码']")元素执行输入:123 操作!
+[32mINFO    [0m root:base.py:65 正在对: ('css selector', '#login') 元素执行点击操作 
+[32mINFO    [0m root:base.py:28 正在查找元素：('css selector', '#login')
+[32mINFO    [0m root:base.py:19 正在初始化driver：
+[32mINFO    [0m root:conftest.py:37 执行前置SQL：DELETE FROM sys_title WHERE name = 'test_title_01'
+[32mINFO    [0m root:page_mp_title.py:46 正在调用上传课题业务方法，课题名称: test_title_01 课题难度: 适中 课题类型: 计算机软件研发类 课题来源: 自拟项目 课题摘要: xxx
+[32mINFO    [0m root:base.py:65 正在对: ('xpath', "//span[text()= '上传课题']/..") 元素执行点击操作 
+[32mINFO    [0m root:base.py:28 正在查找元素：('xpath', "//span[text()= '上传课题']/..")
+[32mINFO    [0m root:base.py:28 正在查找元素：('css selector', '#title_name')
+[32mINFO    [0m root:base.py:54 正在对: ('css selector', '#title_name')元素执行清空操作! 
+[32mINFO    [0m root:base.py:57 正在对: ('css selector', '#title_name')元素执行输入:test_title_01 操作!
+[32mINFO    [0m root:base.py:65 正在对: ('css selector', " [placeholder='请选择课题难度']") 元素执行点击操作 
+[32mINFO    [0m root:base.py:28 正在查找元素：('css selector', " [placeholder='请选择课题难度']")
+[32mINFO    [0m root:base.py:65 正在对: ('xpath', "//*[text( )='适中']") 元素执行点击操作 
+[32mINFO    [0m root:base.py:28 正在查找元素：('xpath', "//*[text( )='适中']")
+[32mINFO    [0m root:base.py:65 正在对: ('css selector', " [placeholder='请选择课题类型']") 元素执行点击操作 
+[32mINFO    [0m root:base.py:28 正在查找元素：('css selector', " [placeholder='请选择课题类型']")
+[32mINFO    [0m root:base.py:65 正在对: ('xpath', "//*[text( )='计算机软件研发类']") 元素执行点击操作 
+[32mINFO    [0m root:base.py:28 正在查找元素：('xpath', "//*[text( )='计算机软件研发类']")
+[32mINFO    [0m root:base.py:65 正在对: ('css selector', " [placeholder='请选择课题来源']") 元素执行点击操作 
+[32mINFO    [0m root:base.py:28 正在查找元素：('css selector', " [placeholder='请选择课题来源']")
+[32mINFO    [0m root:base.py:65 正在对: ('xpath', "//*[text( )='自拟项目']") 元素执行点击操作 
+[32mINFO    [0m root:base.py:28 正在查找元素：('xpath', "//*[text( )='自拟项目']")
+[32mINFO    [0m root:base.py:28 正在查找元素：('css selector', '#title_abstract')
+[32mINFO    [0m root:base.py:54 正在对: ('css selector', '#title_abstract')元素执行清空操作! 
+[32mINFO    [0m root:base.py:57 正在对: ('css selector', '#title_abstract')元素执行输入:xxx 操作!
+[32mINFO    [0m root:base.py:65 正在对: ('xpath', "//*[text()= '发布课题']/..") 元素执行点击操作 
+[32mINFO    [0m root:base.py:28 正在查找元素：('xpath', "//*[text()= '发布课题']/..")
+[32mINFO    [0m root:base.py:28 正在查找元素：('css selector', '[role="alert"] > p')
+[32mINFO    [0m root:base.py:72 正在对: ('css selector', '[role="alert"] > p')元素获取文本操作!，获取的文本值: 发布课题成功 
+[32mINFO    [0m root:base.py:28 正在查找元素：('css selector', '[role="alert"] > p')
+[32mINFO    [0m root:base.py:28 正在查找元素：('css selector', '[role="alert"] > p')
+[32mINFO    [0m root:base.py:72 正在对: ('css selector', '[role="alert"] > p')元素获取文本操作!，获取的文本值: 发布课题成功 
+[32mINFO    [0m root:base.py:28 正在查找元素：('css selector', '[role="alert"] > p')
+[32mINFO    [0m root:conftest.py:44 执行后置SQL：DELETE FROM sys_title WHERE name = 'test_title_01'

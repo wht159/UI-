@@ -1,0 +1,21 @@
+test_login_sucess:
+  # 用户名,密码,期望角色
+  # username, password, expect_role,
+  - ["haitao", "123", "角色：ROLE_STUDENT"]
+  - ["11111", "123", "角色：ROLE_TEACHER"]
+  - ["admin", "admin", "角色：ROLE_ADMIN"]
+
+
+test_login_error_1:
+  # 用户名,密码,期望弹窗信息
+  # username, password, expect_alert,
+  - ["11111", "111", "用户名或密码错误"]
+
+test_login_error_2:
+  # 用户名,密码,期望弹窗信息
+  # username, password, expect_alert,
+  - ["", "111", ['请输入用户名1']]
+  - ["11111", "", ['请输入密码']]
+  - ["", "", ['请输入用户名', '请输入密码']]
+
+
