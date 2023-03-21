@@ -35,18 +35,32 @@ class PageMpLogin(Base):
 
     # 组合 测试脚本层调用
     def page_mp_login(self, username, password):
-        log.info("正在调用登录业务方法，用户名: {} 密码: {}".format(username,  password))
+        log.info("正在调用登录业务方法，用户名: {} 密码: {}".format(username, password))
         self.page_input_username(username)
         self.page_input_password(password)
         self.page_click_login_btn()
         sleep(1)
 
-    # 组合 测试文章登录\成绩输入
-    def page_mp_title_login_success(self, username='11111', password='123'):
-        log.info("正在调用自媒体登录业务方法，用户名: {} 密码: {}".format(username,  password))
+    # 组合 教师登录\成绩输入
+    def page_mp_teacher_login(self, username='11111', password='123'):
+        log.info("正在调用导师登录业务方法，用户名: {} 密码: {}".format(username, password))
 
         self.page_input_username(username)
         self.page_input_password(password)
         self.page_click_login_btn()
 
+    # 组合 学生登录\成绩输入
+    def page_mp_login_student(self, username='student', password='123'):
+        log.info("正在调用学生登录业务方法，用户名: {} 密码: {}".format(username, password))
 
+        self.page_input_username(username)
+        self.page_input_password(password)
+        self.page_click_login_btn()
+
+    # 管理员登录\成绩输入
+    def page_mp_login_admin(self, username='admin', password='admin'):
+        log.info("正在调用管理员登录业务方法，用户名: {} 密码: {}".format(username, password))
+
+        self.page_input_username(username)
+        self.page_input_password(password)
+        self.page_click_login_btn()

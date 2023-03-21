@@ -11,7 +11,7 @@ class GetDriver:
         # 判断是为空
         if cls.__web_driver is None:
             # 获取浏览器
-            cls.__web_driver = webdriver.Chrome()
+            cls.__web_driver = webdriver.Edge()
             # 最大化浏览器
             cls.__web_driver.maximize_window()
             # 打开url

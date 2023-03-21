@@ -1,0 +1,31 @@
+[32mINFO    [0m root:test06_mp_admin.py:18 执行前置SQL：DELETE FROM sys_student_teacher WHERE stu_num = '32000'
+[32mINFO    [0m root:base.py:19 正在初始化driver：
+[32mINFO    [0m root:page_mp_login.py:62 正在调用管理员登录业务方法，用户名: admin 密码: admin
+[32mINFO    [0m root:base.py:28 正在查找元素：('css selector', "[placeholder='请输入用户名']")
+[32mINFO    [0m root:base.py:54 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行清空操作! 
+[32mINFO    [0m root:base.py:57 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行输入:admin 操作!
+[32mINFO    [0m root:base.py:28 正在查找元素：('css selector', " [placeholder='请输入密码']")
+[32mINFO    [0m root:base.py:54 正在对: ('css selector', " [placeholder='请输入密码']")元素执行清空操作! 
+[32mINFO    [0m root:base.py:57 正在对: ('css selector', " [placeholder='请输入密码']")元素执行输入:admin 操作!
+[32mINFO    [0m root:base.py:65 正在对: ('css selector', '#login') 元素执行点击操作 
+[32mINFO    [0m root:base.py:28 正在查找元素：('css selector', '#login')
+[32mINFO    [0m root:base.py:19 正在初始化driver：
+[32mINFO    [0m root:base.py:65 正在对: ('xpath', "//span[text()= '学生管理']/..") 元素执行点击操作 
+[32mINFO    [0m root:base.py:28 正在查找元素：('xpath', "//span[text()= '学生管理']/..")
+[32mINFO    [0m root:base.py:28 正在查找元素：('xpath', "//input[@placeholder='请输入学号']")
+[32mINFO    [0m root:base.py:54 正在对: ('xpath', "//input[@placeholder='请输入学号']")元素执行清空操作! 
+[32mINFO    [0m root:base.py:57 正在对: ('xpath', "//input[@placeholder='请输入学号']")元素执行输入:32000 操作!
+[32mINFO    [0m root:base.py:65 正在对: ('xpath', "//span[text()= '搜索']/..") 元素执行点击操作 
+[32mINFO    [0m root:base.py:28 正在查找元素：('xpath', "//span[text()= '搜索']/..")
+[32mINFO    [0m root:base.py:65 正在对: ('xpath', "//span[text()= ' 选择指导老师 ']/..") 元素执行点击操作 
+[32mINFO    [0m root:base.py:28 正在查找元素：('xpath', "//span[text()= ' 选择指导老师 ']/..")
+[32mINFO    [0m root:base.py:65 正在对: ('css selector', " [placeholder='请选择老师']") 元素执行点击操作 
+[32mINFO    [0m root:base.py:28 正在查找元素：('css selector', " [placeholder='请选择老师']")
+[32mINFO    [0m root:base.py:65 正在对: ('xpath', "//*[text( )='张三']") 元素执行点击操作 
+[32mINFO    [0m root:base.py:28 正在查找元素：('xpath', "//*[text( )='张三']")
+[32mINFO    [0m root:base.py:65 正在对: ('xpath', "//*[@id='app']/section/section/main/div/div[5]/div/div[3]/div/button[2]") 元素执行点击操作 
+[32mINFO    [0m root:base.py:28 正在查找元素：('xpath', "//*[@id='app']/section/section/main/div/div[5]/div/div[3]/div/button[2]")
+[32mINFO    [0m root:base.py:28 正在查找元素：('xpath', "//*[@id='app']/section/section/main/div/div[2]/div[3]/table/tbody/tr/td[9]/div")
+[32mINFO    [0m root:base.py:72 正在对: ('xpath', "//*[@id='app']/section/section/main/div/div[2]/div[3]/table/tbody/tr/td[9]/div")元素获取文本操作!，获取的文本值:  
+[32mINFO    [0m root:base.py:28 正在查找元素：('xpath', "//*[@id='app']/section/section/main/div/div[2]/div[3]/table/tbody/tr/td[9]/div")
+[32mINFO    [0m root:test06_mp_admin.py:21 执行前置SQL：DELETE FROM sys_student_teacher WHERE stu_num = '32000'

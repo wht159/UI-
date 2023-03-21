@@ -1,0 +1,20 @@
+[32mINFO    [0m root:test04_mp_upload.py:16 执行前置SQL：DELETE FROM sys_proposal WHERE name = 'test.txt'
+[32mINFO    [0m root:base.py:19 正在初始化driver：
+[32mINFO    [0m root:page_mp_login.py:54 正在调用学生登录业务方法，用户名: student 密码: 123
+[32mINFO    [0m root:base.py:28 正在查找元素：('css selector', "[placeholder='请输入用户名']")
+[32mINFO    [0m root:base.py:54 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行清空操作! 
+[32mINFO    [0m root:base.py:57 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行输入:student 操作!
+[32mINFO    [0m root:base.py:28 正在查找元素：('css selector', " [placeholder='请输入密码']")
+[32mINFO    [0m root:base.py:54 正在对: ('css selector', " [placeholder='请输入密码']")元素执行清空操作! 
+[32mINFO    [0m root:base.py:57 正在对: ('css selector', " [placeholder='请输入密码']")元素执行输入:123 操作!
+[32mINFO    [0m root:base.py:65 正在对: ('css selector', '#login') 元素执行点击操作 
+[32mINFO    [0m root:base.py:28 正在查找元素：('css selector', '#login')
+[32mINFO    [0m root:base.py:19 正在初始化driver：
+[32mINFO    [0m root:base.py:65 正在对: ('xpath', "//span[text()= '提交开题报告']/..") 元素执行点击操作 
+[32mINFO    [0m root:base.py:28 正在查找元素：('xpath', "//span[text()= '提交开题报告']/..")
+[32mINFO    [0m root:base.py:65 正在对: ('xpath', "//button[@class='el-button ml-5 el-button--primary el-button--mini']") 元素执行点击操作 
+[32mINFO    [0m root:base.py:28 正在查找元素：('xpath', "//button[@class='el-button ml-5 el-button--primary el-button--mini']")
+[32mINFO    [0m root:base.py:28 正在查找元素：('xpath', "//*[@id='appendix']")
+[32mINFO    [0m root:base.py:72 正在对: ('xpath', "//*[@id='appendix']")元素获取文本操作!，获取的文本值: test.txt 
+[32mINFO    [0m root:base.py:28 正在查找元素：('xpath', "//*[@id='appendix']")
+[32mINFO    [0m root:test04_mp_upload.py:19 执行前置SQL：DELETE FROM sys_proposal WHERE name = 'test.txt'

@@ -1,0 +1,18 @@
+[32mINFO    [0m root:base.py:19 正在初始化driver：
+[32mINFO    [0m root:page_mp_login.py:46 正在调用导师登录业务方法，用户名: 11111 密码: 123
+[32mINFO    [0m root:base.py:28 正在查找元素：('css selector', "[placeholder='请输入用户名']")
+[32mINFO    [0m root:base.py:54 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行清空操作! 
+[32mINFO    [0m root:base.py:57 正在对: ('css selector', "[placeholder='请输入用户名']")元素执行输入:11111 操作!
+[32mINFO    [0m root:base.py:28 正在查找元素：('css selector', " [placeholder='请输入密码']")
+[32mINFO    [0m root:base.py:54 正在对: ('css selector', " [placeholder='请输入密码']")元素执行清空操作! 
+[32mINFO    [0m root:base.py:57 正在对: ('css selector', " [placeholder='请输入密码']")元素执行输入:123 操作!
+[32mINFO    [0m root:base.py:65 正在对: ('css selector', '#login') 元素执行点击操作 
+[32mINFO    [0m root:base.py:28 正在查找元素：('css selector', '#login')
+[32mINFO    [0m root:base.py:19 正在初始化driver：
+[32mINFO    [0m root:base.py:65 正在对: ('xpath', "//span[text()= '审核毕业论文']/..") 元素执行点击操作 
+[32mINFO    [0m root:base.py:28 正在查找元素：('xpath', "//span[text()= '审核毕业论文']/..")
+[32mINFO    [0m root:base.py:65 正在对: ('xpath', "//div[text()='student3']/../../td[6]/div/button[2]") 元素执行点击操作 
+[32mINFO    [0m root:base.py:28 正在查找元素：('xpath', "//div[text()='student3']/../../td[6]/div/button[2]")
+[32mINFO    [0m root:base.py:28 正在查找元素：('xpath', "//div[text()= '本科毕业单击选择名称.docx']/../../td[3]/div")
+[32mINFO    [0m root:base.py:72 正在对: ('xpath', "//div[text()= '本科毕业单击选择名称.docx']/../../td[3]/div")元素获取文本操作!，获取的文本值: 0.71 
+[32mINFO    [0m root:base.py:28 正在查找元素：('xpath', "//div[text()= '本科毕业单击选择名称.docx']/../../td[3]/div")

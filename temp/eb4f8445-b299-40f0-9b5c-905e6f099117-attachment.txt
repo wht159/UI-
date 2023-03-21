@@ -1,0 +1,30 @@
+[32mINFO    [0m root:test05_mp_register.py:19 执行前置SQL：DELETE FROM sys_user WHERE username like 'test%'
+[32mINFO    [0m root:test05_mp_register.py:20 执行前置SQL：DElETE FROM sys_student WHERE sno = 123456789
+[32mINFO    [0m root:base.py:19 正在初始化driver：
+[32mINFO    [0m root:base.py:65 正在对: ('xpath', "//*[text()= '学生注册']/..") 元素执行点击操作 
+[32mINFO    [0m root:base.py:28 正在查找元素：('xpath', "//*[text()= '学生注册']/..")
+[32mINFO    [0m root:base.py:28 正在查找元素：('xpath', "//input[@placeholder='请输入账号']")
+[32mINFO    [0m root:base.py:54 正在对: ('xpath', "//input[@placeholder='请输入账号']")元素执行清空操作! 
+[32mINFO    [0m root:base.py:57 正在对: ('xpath', "//input[@placeholder='请输入账号']")元素执行输入:test5 操作!
+[32mINFO    [0m root:base.py:28 正在查找元素：('xpath', "//input[@placeholder='请输入密码']")
+[32mINFO    [0m root:base.py:54 正在对: ('xpath', "//input[@placeholder='请输入密码']")元素执行清空操作! 
+[32mINFO    [0m root:base.py:57 正在对: ('xpath', "//input[@placeholder='请输入密码']")元素执行输入:123456 操作!
+[32mINFO    [0m root:base.py:28 正在查找元素：('xpath', "//input[@placeholder='请确认密码']")
+[32mINFO    [0m root:base.py:54 正在对: ('xpath', "//input[@placeholder='请确认密码']")元素执行清空操作! 
+[32mINFO    [0m root:base.py:57 正在对: ('xpath', "//input[@placeholder='请确认密码']")元素执行输入:123456 操作!
+[32mINFO    [0m root:base.py:28 正在查找元素：('xpath', "//input[@placeholder='请输入姓名']")
+[32mINFO    [0m root:base.py:54 正在对: ('xpath', "//input[@placeholder='请输入姓名']")元素执行清空操作! 
+[32mINFO    [0m root:base.py:57 正在对: ('xpath', "//input[@placeholder='请输入姓名']")元素执行输入:导师名 操作!
+[32mINFO    [0m root:base.py:28 正在查找元素：('xpath', "//input[@placeholder='请输入学号']")
+[32mINFO    [0m root:base.py:54 正在对: ('xpath', "//input[@placeholder='请输入学号']")元素执行清空操作! 
+[32mINFO    [0m root:base.py:57 正在对: ('xpath', "//input[@placeholder='请输入学号']")元素执行输入:123456789 操作!
+[32mINFO    [0m root:base.py:28 正在查找元素：('xpath', "//input[@placeholder='请输入所在院系']")
+[32mINFO    [0m root:base.py:54 正在对: ('xpath', "//input[@placeholder='请输入所在院系']")元素执行清空操作! 
+[32mINFO    [0m root:base.py:57 正在对: ('xpath', "//input[@placeholder='请输入所在院系']")元素执行输入:电子信息 操作!
+[32mINFO    [0m root:base.py:65 正在对: ('xpath', "//span[text()= '注册']/..") 元素执行点击操作 
+[32mINFO    [0m root:base.py:28 正在查找元素：('xpath', "//span[text()= '注册']/..")
+[32mINFO    [0m root:base.py:28 正在查找元素：('css selector', '[role="alert"] > p')
+[32mINFO    [0m root:base.py:72 正在对: ('css selector', '[role="alert"] > p')元素获取文本操作!，获取的文本值: 注册成功 
+[32mINFO    [0m root:base.py:28 正在查找元素：('css selector', '[role="alert"] > p')
+[32mINFO    [0m root:test05_mp_register.py:24 执行前置SQL：DELETE FROM sys_user WHERE username like 'test%'
+[32mINFO    [0m root:test05_mp_register.py:25 执行前置SQL：DElETE FROM sys_student WHERE sno = 123456789

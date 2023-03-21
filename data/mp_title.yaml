@@ -1,4 +1,4 @@
-test_title_sucess:
+test_title_success:
   # 课题名称,课题难度,课题类型,课题来源,课题摘要,期望弹窗信息
   # title_name, degree_text,type_text,source_text,title_abstract,expect_alert
   - ["test_title_01", "适中", "计算机软件研发类", "自拟项目","xxx","发布课题成功"]

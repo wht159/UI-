@@ -1,0 +1,8 @@
+test_verify_paper_success:
+  # 测试评论,期望弹窗信息
+  # test_comment, expect_alert
+  - ["这是一条测试审核通过的评论","审核成功"]
+test_verify_paper_fail:
+  # 测试评论,期望弹窗信息
+  # test_comment, expect_alert
+  - ["这是一条测试审核不通过的评论","审核成功"]

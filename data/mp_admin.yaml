@@ -1,0 +1,4 @@
+test_select_teacher:
+  # 学号,导师名字,期望结果
+  # sno, teacher_name,expect_result
+  - ["32000", "张三", "张三"]

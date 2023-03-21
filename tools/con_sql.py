@@ -8,9 +8,10 @@ class MysqlDb():
 
     def __init__(self, ):
         # 通过字典拆包传递配置信息，建立数据库连接
-        self.conn = pymysql.connect(host='localhost', password='123', port=3306, user='root', charset='utf8',
-                                    db='haitao', autocommit=True)
-        # 通过 cursor() 创建游标对象，并让查询结果以字典格式输出
+        self.conn = pymysql.connect(host='localhost', password='123456', port=3306, user='root', charset='utf8',
+                                    db='wuhaitao', autocommit=True)
+        # 通
+        # 过 cursor() 创建游标对象，并让查询结果以字典格式输出
         self.cur = self.conn.cursor(cursor=pymysql.cursors.DictCursor)
 
     def __del__(self):  # 对象资源被释放时触发，在对象即将被删除时的最后操作

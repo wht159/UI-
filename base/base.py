@@ -87,18 +87,6 @@ class Base:
     def base_get_img(self):
         log.info("断言出错， 正在执行截图操作！")
         allure.attach(self.driver.get_screenshot_as_png(), "错误原因: ", attachment_type=allure.attachment_type.PNG)
-        # # 1.调用截图方法
-        # self.driver.get_screenshot_as_file('./image/err.png')
-        # log.info("断言出错，正在将错误图片写入allure报告！ ")
-
-        # # 2.调用图片写入报告方法
-        # self.__base_write_img()
-
-    # # 将图片写入报告方法(私有)
-    # def __base_write_img(self):
-    #     # 1.获取图片文件流
-    #     with open("./image/err.png", "rb") as f:
-    #         allure.attach("错误原因: ", f.read(), attachment_type=allure.attachment_type.PNG)
 
     # 多选框点击操作
     def web_base_click_element(self, placeholder_text, click_text):
@@ -110,9 +98,11 @@ class Base:
         # 3.点击包含显示文本的元素
         loc = By.XPATH, "//*[text( )='{}']".format(click_text)
         self.base_click(loc)
-    #
-    # # 查找弹窗的文本
-    # def web_base_find_alter_text(self):
-    #     alter = self.driver.switch_to_alert()
-    #     return alter.text
+
+    # js强制点击覆盖的元素
+    def base_js_click_element(self, loc):
+        log.info("正在对: {} 元素执行点击操作 ".format(loc))
+        element = self.base_find(loc)
+        self.driver.execute_script('arguments[0].click()', element)
+
 

@@ -1,4 +1,14 @@
 test_title_sql:
   "DELETE FROM sys_title WHERE name = 'test_title_01'"
 test_score_sql:
-  "UPDATE sys_title  SET score = null WHERE name = 'test1'"
+  "UPDATE sys_title SET score = null WHERE name = 'testSCore'"
+test_proposal_sql:
+  "DELETE FROM sys_proposal WHERE name = 'test.txt'"
+test_student_register_sql01:
+  "DELETE FROM sys_user WHERE username like 'test%'"
+test_student_register_sql02:
+  "DElETE FROM sys_student WHERE sno = 123456789"
+test_select_teacher_sql:
+  "DELETE FROM sys_student_teacher WHERE stu_num = '32000'"
+test_verify_paper_sql:
+  "DELETE FROM sys_verify WHERE file_id = 40"

@@ -1,0 +1,4 @@
+test_upload_proposal:
+  # 传递的文件本地地址,期望附件信息
+  # url, expect_alert
+  - [C:\Users\haitao\Desktop\test.txt, "test.txt"]
